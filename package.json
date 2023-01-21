@@ -1,0 +1,29 @@
+{
+  "name": "test-case-chapter-4",
+  "version": "1.0.0",
+  "description": "test case chapter 4 binar academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisedevguy/test-case-chapter-4-binaracademy.git"
+  },
+  "keywords": [
+    "javascript",
+    "binaracademy",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Bijak Amien Muttaqie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisedevguy/test-case-chapter-4-binaracademy/issues"
+  },
+  "homepage": "https://github.com/wisedevguy/test-case-chapter-4-binaracademy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
